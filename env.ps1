@@ -1,0 +1,1 @@
+$env:Path += "$pwd\bin"

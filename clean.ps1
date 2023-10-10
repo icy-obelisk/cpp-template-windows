@@ -1,0 +1,1 @@
+Remove-Item -Force -Recurse bin,build,compile_commands.json,lib
